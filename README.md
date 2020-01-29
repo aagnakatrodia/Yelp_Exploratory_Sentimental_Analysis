@@ -18,7 +18,7 @@ For the purpose of my exploratory analysis, I am using the business, review, che
 
 
 •	Plot for distribution of Reviews across stars (1,2,3,4,5)<br><br>
-![](Images/Exploratory/Stars.png)
+![](Images/Exploratory/Stars.png)<br><br>
 •	Plot to show maximum category business. As, we can see, the maximum category of business is Restaurant, followed by Food and Shopping.<br><br>
 •	World map to show where the restaurant businesses are scattered. I am using Basemap here with the 'hammer' projection to display the map. The background of the map is filled by etopo(). The red spots are the restaurant businesses included in the Business Dataset.<br><br>
 •	Closer view of North America and Europe map for restaurant businesses. Again, I am using Basemap with bluemarble() for the background. The yellow spots are the restaurant businesses in the North America And Europe region<br><br>
