@@ -1,4 +1,4 @@
-<h1>Yelp Dataset Analysis - Exploratory<h1>
+<h1>Yelp Dataset Analysis - Exploratory</h1>
 
 In the first part of this project, I will be performing all the exploratory analysis on the Yelp dataset. There are visualizations on the analysis of the data as well as various maps to show the distribution of reviews/checkins across the continents. It is further analyzed into the sections where the review count is maximum (Las Vegas, Nevada)
 
@@ -18,6 +18,7 @@ For the purpose of my exploratory analysis, I am using the business, review, che
 
 
 •	Plot for distribution of Reviews across stars (1,2,3,4,5)<br><br>
+![](Images/Exploratory/Stars.png)
 •	Plot to show maximum category business. As, we can see, the maximum category of business is Restaurant, followed by Food and Shopping.<br><br>
 •	World map to show where the restaurant businesses are scattered. I am using Basemap here with the 'hammer' projection to display the map. The background of the map is filled by etopo(). The red spots are the restaurant businesses included in the Business Dataset.<br><br>
 •	Closer view of North America and Europe map for restaurant businesses. Again, I am using Basemap with bluemarble() for the background. The yellow spots are the restaurant businesses in the North America And Europe region<br><br>
