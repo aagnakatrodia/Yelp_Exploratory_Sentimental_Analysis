@@ -2,22 +2,22 @@
 
 In the first part of this project, I will be performing all the exploratory analysis on the Yelp dataset. There are visualizations on the analysis of the data as well as various maps to show the distribution of reviews/checkins across the continents. It is further analyzed into the sections where the review count is maximum (Las Vegas, Nevada)
 
-Dataset
+<h4>Dataset<h4>
 
 This project uses the Yelp Open Dataset:https://www.yelp.com/dataset/download, which includes 5 files:
 
-business: Contains business data including location data, attributes, and categories.<br><br>
-review: Contains full review text data including the user_id that wrote the review and the business_id the review is written for.<br><br>
-user: User data including the user's friend mapping and all the metadata associated with the user.<br><br>
-checkin: Checkins on a business.<br><br>
-tip: Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
+<b>business: </b>Contains business data including location data, attributes, and categories.<br><br>
+<b>review:</b> Contains full review text data including the user_id that wrote the review and the business_id the review is written for.<br><br>
+<b>user:</b> User data including the user's friend mapping and all the metadata associated with the user.<br><br>
+<b>checkin:</b> Checkins on a business.<br><br>
+<b>tip:</b> Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
 
 For the purpose of my exploratory analysis, I am using the business, review, checkin dataset.
 
-<h3>Things Done:</h3>T
+<h3>Things Done:</h3>
 
 
-<u>Plot for distribution of Reviews across stars (1,2,3,4,5)</u><br><br>
+<ins>Plot for distribution of Reviews across stars (1,2,3,4,5)</ins><br><br>
 ![](Images/Exploratory/Stars.png)<br><br>
 <u>Plot to show maximum category business. </u><br>
 As, we can see, the maximum category of business is Restaurant, followed by Food and Shopping.<br><br>
