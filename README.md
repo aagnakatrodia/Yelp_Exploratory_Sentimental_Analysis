@@ -6,11 +6,11 @@ In the first part of this project, I will be performing all the exploratory anal
 
 This project uses the Yelp Open Dataset:https://www.yelp.com/dataset/download, which includes 5 files:
 
-<b>business: </b>Contains business data including location data, attributes, and categories.<br><br>
-<b>review:</b> Contains full review text data including the user_id that wrote the review and the business_id the review is written for.<br><br>
-<b>user:</b> User data including the user's friend mapping and all the metadata associated with the user.<br><br>
-<b>checkin:</b> Checkins on a business.<br><br>
-<b>tip:</b> Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
+*<b>Business: </b>Contains business data including location data, attributes, and categories.<br><br>
+*<b>Review:</b> Contains full review text data including the user_id that wrote the review and the business_id the review is written for.<br><br>
+*<b>User:</b> User data including the user's friend mapping and all the metadata associated with the user.<br><br>
+*<b>Checkin:</b> Checkins on a business.<br><br>
+*<b>Tip:</b> Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
 
 For the purpose of my exploratory analysis, I am using the business, review, checkin dataset.
 
