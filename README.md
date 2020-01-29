@@ -8,17 +8,17 @@ This project uses the Yelp Open Dataset:https://www.yelp.com/dataset/download, w
 
 * <b>Business: </b>Contains business data including location data, attributes, and categories.
 * <b>Review:</b> Contains full review text data including the user_id that wrote the review and the business_id the review is written for.
-* <b>User:</b> User data including the user's friend mapping and all the metadata associated with the user.<br><br>
-* <b>Checkin:</b> Checkins on a business.<br><br>
+* <b>User:</b> User data including the user's friend mapping and all the metadata associated with the user.
+* <b>Checkin:</b> Checkins on a business.
 * <b>Tip:</b> Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
 
 
-For the purpose of my exploratory analysis, I am using the business, review, checkin dataset.
+For the purpose of my exploratory analysis, I am using the business, review and checkin dataset.
 
 <h3>Things Done:</h3>
 
 
-<ins>Plot for distribution of Reviews across stars (1,2,3,4,5)</ins><br><br>
+<ins>Plot for distribution of Reviews across stars [1,2,3,4,5]</ins><br><br>
 ![](Images/Exploratory/Stars.png)<br><br>
 <ins>Plot to show maximum category business. </ins><br><br>
 As, we can see, the maximum category of business is Restaurant, followed by Food and Shopping.<br><br>
