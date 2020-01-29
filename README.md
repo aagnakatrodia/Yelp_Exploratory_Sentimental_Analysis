@@ -12,6 +12,8 @@ This project uses the Yelp Open Dataset:https://www.yelp.com/dataset/download, w
 * <b>Checkin:</b> Checkins on a business.
 * <b>Tip:</b> Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.<br>
 
+Tools used: Python (Pandas, Numpy, Matplotlib, Seaborn, Folium, NLTK, WordCloud, Keras, Textblob)
+
 
 For the purpose of my exploratory analysis, I am using the business, review and checkin dataset.
 
